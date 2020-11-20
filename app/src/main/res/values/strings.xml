@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Directory_Intel_AMD_nVidia_v2_0</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="Info">Довідник історії Intel, АМД і nVidia.
+              За допомогою кнопок знизу можна обрати потрібну компанію, і за допомогою пошуку дізнатися інформацію про неї.</string>
+
+</resources>
